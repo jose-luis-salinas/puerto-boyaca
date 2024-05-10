@@ -15,7 +15,7 @@ export default function page() {
         <Image src={"/resources/imgs/bg1.jpg"} width={2160} height={1080} />
         <Image
           className="banner position-absolute"
-          src={"/resources/imgs/banner.webp"}
+          src={"./resources/imgs/banner.webp"}
           width={1920}
           height={480}
         />
