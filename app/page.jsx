@@ -12,10 +12,10 @@ export default function page() {
   return (
     <div className="content-home">
       <div className="welcome">
-        <Image src={"/puerto-boyaca/resources/imgs/bg1.jpg"} width={2160} height={1080} />
+        <Image src={"/resources/imgs/bg1.jpg"} width={2160} height={1080} />
         <Image
           className="banner position-absolute"
-          src={"/puerto-boyaca/resources/imgs/banner.webp"}
+          src={"/resources/imgs/banner.webp"}
           width={1920}
           height={480}
         />
@@ -80,7 +80,7 @@ export default function page() {
           <div className="col place">
             <div className="place-image rounded">
               <Image
-                src={"/puerto-boyaca/resources/imgs/puerto-romero.jpg"}
+                src={"/resources/imgs/puerto-romero.jpg"}
                 width={1200}
                 height={630}
               />
@@ -94,7 +94,7 @@ export default function page() {
           <div className="col place">
             <div className="place-image rounded">
               <Image
-                src={"/puerto-boyaca/resources/imgs/la-cristalina.png"}
+                src={"/resources/imgs/la-cristalina.png"}
                 width={800}
                 height={534}
               />
@@ -108,7 +108,7 @@ export default function page() {
           <div className="col place">
             <div className="place-image rounded">
               <Image
-                src={"/puerto-boyaca/resources/imgs/charco-azul.png"}
+                src={"/resources/imgs/charco-azul.png"}
                 width={1536}
                 height={1536}
               />
@@ -122,7 +122,7 @@ export default function page() {
           <div className="col place">
             <div className="place-image rounded">
               <Image
-                src={"/puerto-boyaca/resources/imgs/cienaga-palagua.jpeg"}
+                src={"/resources/imgs/cienaga-palagua.jpeg"}
                 width={1600}
                 height={896}
               />
@@ -136,7 +136,7 @@ export default function page() {
           <div className="col place">
             <div className="place-image rounded">
               <Image
-                src={"/puerto-boyaca/resources/imgs/quebrada-la-cristalina.png"}
+                src={"/resources/imgs/quebrada-la-cristalina.png"}
                 width={801}
                 height={601}
               />
@@ -150,7 +150,7 @@ export default function page() {
           <div className="col place">
             <div className="place-image rounded">
               <Image
-                src={"/puerto-boyaca/resources/imgs/los-laureles.jpeg"}
+                src={"/resources/imgs/los-laureles.jpeg"}
                 width={638}
                 height={426}
               />
@@ -179,7 +179,7 @@ export default function page() {
                 <iframe
                   className="rounded"
                   src="https://www.google.com/maps/d/u/0/embed?mid=1VFi0_h5DdrQN9e86Lqm4t2QMjcVj8vE&usp=sharing"
-                  frameborder="0"
+                  frameBorder="0"
                 ></iframe>
               </div>
 

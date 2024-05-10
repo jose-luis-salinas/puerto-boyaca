@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/puerto-boyaca",
-    output: "export",  // <=== enables static exports
+    output: "export",
     reactStrictMode: true,
 };
 
