@@ -14,7 +14,7 @@ export default function Sidebar() {
     <nav className="sidebar navbar navbar-expand-lg">
       <div className="container-fluid">
         <a className="navbar-brand text-white" href="#">
-          <Image src={"/resources/imgs/logo.png"} width={50} height={50} />
+          <Image src={"/puerto-boyaca/resources/imgs/logo.png"} width={50} height={50} />
           Puerto Boyacá
         </a>
 
